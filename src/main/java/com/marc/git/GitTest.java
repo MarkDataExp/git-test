@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git~~ also~~ dev~ conflict~");
         System.out.println("hello git~~ also~~ dev~ push on GitHub~");
         System.out.println("hello git~~ also~~ dev~ pull from GitHub~");
+        System.out.println("hello git~~ also~~ dev~ pull from GitHub~re");
     }
 }
